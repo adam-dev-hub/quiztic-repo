@@ -1,0 +1,13 @@
+```
+- classCode (string, size: 20)
+- department (string, size: 50)
+- studyLevel (string, size: 10)
+- academicYear (string, size: 20)
+- semester (string, size: 20)
+- description (string, size: 500)
+- maxStudents (integer, optional)
+- schedule (string, size: 100)
+- room (string, size: 100)
+- createdAt (string/datetime)
+- isActive (boolean, default: true)
+- studentCount (integer, default: 0)

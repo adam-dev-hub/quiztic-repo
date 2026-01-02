@@ -1,0 +1,16 @@
+{
+  "name": "vercel-appwrite-function",
+  "version": "1.0.0",
+  "description": "Vercel function for question generation",
+  "main": "api/enhancement.js",
+  "dependencies": {
+    "@google/generative-ai": "^0.15.0",
+    "formidable": "^3.5.1",
+    "pdf-parse": "^1.1.1",
+    "franc": "^6.1.0",
+    "node-appwrite": "^17.0.0"
+  },
+  "scripts": {
+    "start": "node api/enhancement.js"
+  }
+}

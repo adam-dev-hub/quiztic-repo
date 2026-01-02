@@ -1,0 +1,12 @@
+{
+  "name": "vercel-appwrite-function",
+  "version": "1.0.0",
+  "description": "Vercel function for question generation",
+  "main": "api/quiz.js",
+  "dependencies": {
+    "node-appwrite": "^17.0.0"
+  },
+  "scripts": {
+    "start": "node api/quiz.js"
+  }
+}

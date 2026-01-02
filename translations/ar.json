@@ -1,0 +1,894 @@
+{
+  "Please enter your email address.": "الرجاء إدخال عنوان بريدك الإلكتروني.",
+  "Please enter a valid email address.": "الرجاء إدخال عنوان بريد إلكتروني صالح.",
+  "URL being sent to Appwrite createRecovery:": "عنوان URL المرسل إلى Appwrite createRecovery:",
+  "A password reset link has been sent to your email.": "تم إرسال رابط إعادة تعيين كلمة المرور إلى بريدك الإلكتروني.",
+  "Forgot password error:": "خطأ في نسيان كلمة المرور:",
+  "Email not found. Please check your email or register a new account.": "البريد الإلكتروني غير موجود. يرجى التحقق من بريدك الإلكتروني أو إنشاء حساب جديد.",
+  "Failed to send reset link. Please try again later.": "فشل إرسال رابط إعادة التعيين. يرجى المحاولة مرة أخرى لاحقاً.",
+  "Forgot Password": "نسيت كلمة المرور",
+  "Enter your email to receive a password reset link.": "أدخل بريدك الإلكتروني لتلقي رابط إعادة تعيين كلمة المرور.",
+  "Your Email Address": "عنوان بريدك الإلكتروني",
+  "Send Reset Link": "إرسال رابط إعادة التعيين",
+  "Back to Login": "العودة إلى تسجيل الدخول",
+  "Student": "طالب",
+  "Access courses & quizzes": "الوصول إلى الدورات والاختبارات",
+  "Browse Courses": "تصفح الدورات",
+  "Take Quizzes": "خوض الاختبارات",
+  "Track Progress": "تتبع التقدم",
+  "Evaluate Knowledge": "تقييم المعرفة",
+  "Learn and Play": "التعلم واللعب",
+  "Professor": "أستاذ",
+  "Manage courses & quizzes": "إدارة الدورات والاختبارات",
+  "Create Courses": "إنشاء الدورات",
+  "Manage Quizzes": "إدارة الاختبارات",
+  "Organize Classrooms": "تنظيم الفصول الدراسية",
+  "Planify the Curricula": "التخطيط للمناهج",
+  "Monitor Students": "مراقبة الطلاب",
+  "Administrator": "مدير",
+  "System administration": "إدارة النظام",
+  "User Management": "إدارة المستخدمين",
+  "System Settings": "إعدادات النظام",
+  "Overall Analytics": "التحليلات الشاملة",
+  "Maintain Platform": "صيانة المنصة",
+  "Evaluate Pedagogy": "تقييم التربية",
+  "Better Teaching": "تعليم أفضل",
+  "Active Users": "المستخدمون \n النشطون",
+  "Courses":  "\n الدورات",
+  "Choose Your Role": "اختر دورك",
+  "Continue as": "المتابعة كـ",
+  "First name is required.": "الاسم الأول مطلوب.",
+  "Family name is required.": "اسم العائلة مطلوب.",
+  "CIN is required.": "رقم البطاقة الوطنية مطلوب.",
+  "CIN must be 8 digits.": "يجب أن يحتوي رقم البطاقة الوطنية على 8 أرقام.",
+  "UCAR email is required.": "البريد الإلكتروني الجامعي مطلوب.",
+  "Invalid UCAR email format.": "تنسيق البريد الإلكتروني الجامعي غير صالح.",
+  "Password is required.": "كلمة المرور مطلوبة.",
+  "Password must be at least 8 characters.": "يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل.",
+  "Please confirm your password.": "يرجى تأكيد كلمة المرور.",
+  "Passwords don't match.": "كلمات المرور غير متطابقة.",
+  "Registration failed.": "فشل التسجيل.",
+  "Registration successful. Please verify your email.": "نجح التسجيل. يرجى التحقق من بريدك الإلكتروني.",
+  "Registration failed. Please try again.": "فشل التسجيل. يرجى المحاولة مرة أخرى.",
+  "Student Registration Screen": "شاشة تسجيل الطالب",
+  "Create your account to get started": "أنشئ حسابك للبدء",
+  "First Name": "الاسم الأول",
+  "Family Name": "اسم العائلة",
+  "Your ID": "معرفك",
+  "University Email": "البريد الإلكتروني الجامعي",
+  "Password": "كلمة المرور",
+  "Confirm Password": "تأكيد كلمة المرور",
+  "Create Account": "إنشاء حساب",
+  "Already have an account?": "هل لديك حساب بالفعل؟",
+  "Please fill in all fields": "يرجى ملء جميع الحقول",
+  "No current session to delete:": "لا توجد جلسة حالية للحذف:",
+  "Login Error:": "خطأ في تسجيل الدخول:",
+  "Invalid email or password": "البريد الإلكتروني أو كلمة المرور غير صالحة",
+  "Email not verified. Please check your inbox.": "البريد الإلكتروني غير مؤكد. يرجى التحقق من صندوق الوارد.",
+  "Login failed. Please try again.": "فشل تسجيل الدخول. يرجى المحاولة مرة أخرى.",
+  "Student Portal Screen": "شاشة بوابة الطالب",
+  "Sign in to continue learning": "سجل الدخول لمتابعة التعلم",
+  "Sign In": "تسجيل الدخول",
+  "Forgot password?": "نسيت كلمة المرور؟",
+  "Don't have an account?": "ليس لديك حساب؟",
+  "Sign up": "التسجيل",
+  "I'm not a Student": "لست طالباً",
+  "Access denied: You are not listed as a professor.": "تم رفض الوصول: أنت غير مدرج كأستاذ.",
+  "Login successful!": "نجح تسجيل الدخول!",
+  "Login error:": "خطأ في تسجيل الدخول:",
+  "Invalid email or password.": "البريد الإلكتروني أو كلمة المرور غير صالحة.",
+  "Too many login attempts. Please try again later.": "محاولات تسجيل دخول كثيرة جداً. يرجى المحاولة مرة أخرى لاحقاً.",
+  "An unexpected error occurred. Please try again.": "حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى.",
+  "Professor Portal Screen": "شاشة بوابة الأستاذ",
+  "Sign in to access your dashboard": "سجل الدخول للوصول إلى لوحة التحكم",
+  "Institutional Email": "البريد الإلكتروني المؤسسي",
+  "Contact the administrator if you need access": "اتصل بالمدير إذا كنت بحاجة إلى الوصول",
+  "I'm not a Professor": "لست أستاذاً",
+  "Failed to fetch professor info:": "فشل في استرداد معلومات الأستاذ:",
+  "Failed to fetch dynamic data:": "فشل في استرداد البيانات الديناميكية:",
+  "Good Morning": "صباح الخير",
+  "Good Afternoon": "مساء الخير",
+  "Good Evening": "مساء الخير",
+  "Professor Dashboard": "لوحة تحكم الأستاذ",
+  "Preparing your workspace...": "جارٍ تحضير مساحة العمل...",
+  "Classrooms": "الفصول الدراسية",
+  "Total classes": "إجمالي الفصول",
+  "Quiz Builder": "منشئ الاختبارات",
+  "Created Quizzes": "الاختبارات المنشأة",
+  "Average attendance": "متوسط الحضور ",
+  "Attendance Rate": "معدل الحضور ",
+  "Performance": "الأداء",
+  "Global stats": "الإحصائيات العامة",
+  "Search quizzes, classrooms, students...": "البحث عن الاختبارات والفصول والطلاب...",
+  "Overview": "نظرة عامة",
+  "Recent Activity": "النشاط الأخير",
+  "View All": "عرض الكل",
+  "New quiz submitted": "تم تقديم اختبار جديد",
+  "2 minutes ago": "منذ دقيقتين",
+  "Student joined classroom": "انضم طالب إلى الفصل",
+  "1 hour ago": "منذ ساعة واحدة",
+  "Performance report updated": "تم تحديث تقرير الأداء",
+  "3 hours ago": "منذ 3 ساعات",
+  "Quiz ID is missing": "معرف الاختبار مفقود",
+  "Failed to fetch quiz details:": "فشل في استرداد تفاصيل الاختبار:",
+  "Failed to load quiz details": "فشل في تحميل تفاصيل الاختبار",
+  "Failed to load quiz": "فشل في تحميل الاختبار",
+  "Error generating QR code image:": "خطأ في إنشاء صورة رمز الاستجابة السريعة:",
+  "Permission Denied": "تم رفض الإذن",
+  "Permission to access location was denied. Location tracking will be disabled.": "تم رفض إذن الوصول إلى الموقع. سيتم تعطيل تتبع الموقع.",
+  "Could not determine total number of questions.": "تعذر تحديد إجمالي عدد الأسئلة.",
+  "Manual override by professor": "تجاوز يدوي من الأستاذ",
+  "Access granted manually.": "تم منح الوصول يدوياً.",
+  "Failed to grant manual access:": "فشل في منح الوصول اليدوي:",
+  "Failed to update access status.": "فشل في تحديث حالة الوصول.",
+  "Manual denial by professor": "رفض يدوي من الأستاذ",
+  "Access denied manually.": "تم رفض الوصول يدوياً.",
+  "Failed to deny manual access:": "فشل في رفض الوصول اليدوي:",
+  "Existing quiz session updated successfully!": "تم تحديث جلسة الاختبار الحالية بنجاح!",
+  "Error checking for existing quiz session:": "خطأ في التحقق من جلسة الاختبار الحالية:",
+  "New quiz session created successfully!": "تم إنشاء جلسة اختبار جديدة بنجاح!",
+  "Failed to begin quiz:": "فشل في بدء الاختبار:",
+  "Failed to start quiz session": "فشل في بدء جلسة الاختبار",
+  "QR code not ready": "رمز الاستجابة السريعة غير جاهز",
+  "Share Quiz QR Code": "مشاركة رمز الاستجابة السريعة للاختبار",
+  "Failed to share QR code:": "فشل في مشاركة رمز الاستجابة السريعة:",
+  "Failed to share QR code": "فشل في مشاركة رمز الاستجابة السريعة",
+  "Web code not available.": "الرمز على الويب غير متاح.",
+  "Failed to parse participant location string:": "فشل في تحليل سلسلة موقع المشارك:",
+  "Failed to fetch participants:": "فشل في استرداد المشاركين:",
+  "Failed to fetch participants": "فشل في استرداد المشاركين",
+  "No active quiz session to launch.": "لا توجد جلسة اختبار نشطة للإطلاق.",
+  "Quiz launched successfully!": "تم إطلاق الاختبار بنجاح!",
+  "Quiz launched by professor": "تم إطلاق الاختبار من قبل الأستاذ",
+  "Failed to launch quiz:": "فشل في إطلاق الاختبار:",
+  "Failed to launch quiz.": "فشل في إطلاق الاختبار.",
+  "Loading Quiz Details...": "جارٍ تحميل تفاصيل الاختبار...",
+  "Go Back": "الرجوع",
+  "Quiz Session": "جلسة الاختبار",
+  "Configure and start your quiz session": "قم بتكوين وبدء جلسة الاختبار",
+  "Quiz Session Settings": "إعدادات جلسة الاختبار",
+  "Track Location": "تتبع الموقع",
+  "Monitor student locations during quiz": "مراقبة مواقع الطلاب أثناء الاختبار",
+  "Location Range": "نطاق الموقع",
+  "Continuous Mode": "الوضع المستمر",
+  "Present all questions in sequence": "عرض جميع الأسئلة بالتسلسل",
+  "Define Quiz Parts": "تحديد أجزاء الاختبار",
+  "Add Part": "إضافة جزء",
+  "Time per Question": "الوقت لكل سؤال",
+  "Seconds allowed per question": "الثواني المسموح بها لكل سؤال",
+  "Shuffle Questions": "خلط الأسئلة",
+  "Randomize question order": "ترتيب عشوائي للأسئلة",
+  "Register as Support": "التسجيل كدعم",
+  "Enable support mode features": "تمكين ميزات وضع الدعم",
+  "Allow Self-Testing": "السماح بالاختبار الذاتي",
+  "Students can test themselves": "يمكن للطلاب اختبار أنفسهم",
+  "Starting Session...": "جارٍ بدء الجلسة...",
+  "Begin Quiz Session": "بدء جلسة الاختبار",
+  "Scan to Join Quiz": "امسح للانضمام إلى الاختبار",
+  "Session ID:": "معرف الجلسة:",
+  "Share QR": "مشاركة رمز الاستجابة السريعة",
+  "Short Code": "الرمز القصير",
+  "Launch Quiz": "إطلاق الاختبار",
+  "Participants (": "المشاركون (",
+  "Waiting for students to join...": "في انتظار انضمام الطلاب...",
+  "(Out of Range)": "(خارج النطاق)",
+  "No location": "لا يوجد موقع",
+  "Grant Access": "منح الوصول",
+  "Deny Access": "رفض الوصول",
+  "Maximum participant count reached!": "تم الوصول إلى الحد الأقصى لعدد المشاركين!",
+  "Close": "إغلاق",
+  "Students can join the quiz by entering the short code. Also Professor can show the Qr code on web by visiting the website below and entering the short code.": "يمكن للطلاب الانضمام إلى الاختبار عن طريق إدخال الرمز القصير. يمكن للأستاذ أيضاً عرض رمز الاستجابة السريعة على الويب من خلال زيارة الموقع أدناه وإدخال الرمز القصير.",
+  "Website:": "الموقع الإلكتروني:",
+  "Access Code:": "رمز الوصول:",
+  "Multiple Choice": "اختيار من متعدد",
+  "Medium": "متوسط",
+  "Quiz ID is missing.": "معرف الاختبار مفقود.",
+  "Failed to fetch quiz data:": "فشل في استرداد بيانات الاختبار:",
+  "Failed to load quiz data. Please try again.": "فشل في تحميل بيانات الاختبار. يرجى المحاولة مرة أخرى.",
+  "Failed to load quiz data.": "فشل في تحميل بيانات الاختبار.",
+  "File Too Large": "الملف كبير جداً",
+  "PDF selected:": "تم تحديد ملف PDF:",
+  "Error picking document:": "خطأ في اختيار المستند:",
+  "Failed to select document.": "فشل في تحديد المستند.",
+  "Please select a PDF file first.": "يرجى تحديد ملف PDF أولاً.",
+  "Failed to generate questions.": "فشل في إنشاء الأسئلة.",
+  "Error generating questions:": "خطأ في إنشاء الأسئلة:",
+  "An error occurred:": "حدث خطأ:",
+  "Error generating questions.": "خطأ في إنشاء الأسئلة.",
+  "Enhancing question...": "جارٍ تحسين السؤال...",
+  "Enhancement failed:": "فشل التحسين:",
+  "Failed to enhance question.": "فشل في تحسين السؤال.",
+  "Add Question": "إضافة سؤال",
+  "Are you sure you want to add this question to your quiz?": "هل أنت متأكد من رغبتك في إضافة هذا السؤال إلى اختبارك؟",
+  "Cancel": "إلغاء",
+  "OK": "موافق",
+  "Ordering": "الترتيب",
+  "Question added to quiz successfully!": "تمت إضافة السؤال إلى الاختبار بنجاح!",
+  "Failed to add question to quiz:": "فشل في إضافة السؤال إلى الاختبار:",
+  "Failed to add question to quiz.": "فشل في إضافة السؤال إلى الاختبار.",
+  "Failed to parse options for update:": "فشل في تحليل الخيارات للتحديث:",
+  "Updating question...": "جارٍ تحديث السؤال...",
+  "Question updated successfully!": "تم تحديث السؤال بنجاح!",
+  "Failed to update question:": "فشل في تحديث السؤال:",
+  "Failed to update question.": "فشل في تحديث السؤال.",
+  "Delete Question": "حذف السؤال",
+  "Are you sure you want to delete this question?": "هل أنت متأكد من رغبتك في حذف هذا السؤال؟",
+  "Delete": "حذف",
+  "Question deleted successfully!": "تم حذف السؤال بنجاح!",
+  "Failed to delete or re-sequence question:": "فشل في حذف السؤال أو إعادة ترتيبه:",
+  "Failed to delete question or re-sequence.": "فشل في حذف السؤال أو إعادة ترتيبه.",
+  "Reset Quiz": "إعادة تعيين الاختبار",
+  "Are you sure you want to delete all questions for this quiz?": "هل أنت متأكد من رغبتك في حذف جميع أسئلة هذا الاختبار؟",
+  "Yes": "نعم",
+  "Error": "خطأ",
+  "Info": "معلومات",
+  "No questions found to delete.": "لم يتم العثور على أسئلة للحذف.",
+  "Success": "نجاح",
+  "All questions have been deleted.": "تم حذف جميع الأسئلة.",
+  "Error resetting quiz:": "خطأ في إعادة تعيين الاختبار:",
+  "Failed to reset quiz. Please try again.": "فشل في إعادة تعيين الاختبار. يرجى المحاولة مرة أخرى.",
+  "Not Enough Questions": "الأسئلة غير كافية",
+  "More Questions than required": "أسئلة أكثر من المطلوب",
+  "Quiz has been validated and configured!": "تم التحقق من الاختبار وتكوينه!",
+  "Failed to validate quiz:": "فشل في التحقق من الاختبار:",
+  "Error validating quiz. Please try again.": "خطأ في التحقق من الاختبار. يرجى المحاولة مرة أخرى.",
+  "AI Suggestion (After)": "اقتراح الذكاء الاصطناعي (بعد)",
+  "Original (Before)": "الأصلي (قبل)",
+  "Question:": "السؤال:",
+  "Type:": "النوع:",
+  "Items to Order:": "العناصر المراد ترتيبها:",
+  "Correct:": "صحيح:",
+  "Expl:": "شرح:",
+  "Difficulty:": "الصعوبة:",
+  "Retrieving data...": "جارٍ استرداد البيانات...",
+  "Configure Quiz": "تكوين الاختبار",
+  "Set up your quiz questions with AI": "قم بإعداد أسئلة الاختبار بالذكاء الاصطناعي",
+  "Subject:": "الموضوع:",
+  "Target Questions:": "الأسئلة المستهدفة:",
+  "Current State:": "الحالة الحالية:",
+  "Generate Questions": "إنشاء الأسئلة",
+  "(AI Assist)": "(مساعدة الذكاء الاصطناعي)",
+  "(Clear all questions)": "(مسح جميع الأسئلة)",
+  "Added Questions (": "الأسئلة المضافة (",
+  "Update": "تحديث",
+  "Enhance": "تحسين",
+  "Correct Answer:": "الإجابة الصحيحة:",
+  "No questions set up for this quiz yet.": "لم يتم إعداد أسئلة لهذا الاختبار بعد.",
+  "Validate Quiz": "التحقق من الاختبار",
+  "No quiz details found.": "لم يتم العثور على تفاصيل الاختبار.",
+  "Generate Questions with AI": "إنشاء الأسئلة بالذكاء الاصطناعي",
+  "Pick a PDF Course File": "اختر ملف دورة PDF",
+  "You have fully generated the required questions": "لقد قمت بإنشاء الأسئلة المطلوبة بالكامل",
+  "Generate Questions from PDF": "إنشاء الأسئلة من PDF",
+  "Suggested Questions:": "الأسئلة المقترحة:",
+  "Added": "مضاف",
+  "Add": "إضافة",
+  "Update Question": "تحديث السؤال",
+  "Question Type:": "نوع السؤال:",
+  "True/False": "صح/خطأ",
+  "Short Answer": "إجابة قصيرة",
+  "Options (A, B, C, D...):": "الخيارات (أ، ب، ج، د...):",
+  "Add Option": "إضافة خيار",
+  "Ordering Items:": "عناصر الترتيب:",
+  "Add Item": "إضافة عنصر",
+  "Correct Option:": "الخيار الصحيح:",
+  "e.g., 1,2,3 for order of items": "على سبيل المثال، 1،2،3 لترتيب العناصر",
+  "Explanation (Optional):": "الشرح (اختياري):",
+  "Easy": "سهل",
+  "Hard": "صعب",
+  "Save Changes": "حفظ التغييرات",
+  "Enhance Question": "تحسين السؤال",
+  "Suggest Your Enhancement": "اقترح تحسينك",
+  "e.g. Make it harder, add an explanation": "على سبيل المثال اجعله أصعب، أضف شرحاً",
+  "Run Enhancement": "تشغيل التحسين",
+  "Question enhanced and saved!": "تم تحسين السؤال وحفظه!",
+  "Save failed:": "فشل الحفظ:",
+  "Failed to save enhanced question.": "فشل في حفظ السؤال المحسّن.",
+  "Accept & Save Suggestion": "قبول وحفظ الاقتراح",
+  "Semester 1": "الفصل الدراسي 1",
+  "S1": "ف1",
+  "Semester 2": "الفصل الدراسي 2",
+  "S2": "ف2",
+  "Full Year": "السنة الكاملة",
+  "Computer Science": "علوم الحاسوب",
+  "Engineering": "الهندسة",
+  "Mathematics": "الرياضيات",
+  "Physics": "الفيزياء",
+  "Chemistry": "الكيمياء",
+  "Biology": "علم الأحياء",
+  "Business": "الأعمال",
+  "Economics": "الاقتصاد",
+  "Literature": "الأدب",
+  "Other": "أخرى",
+  "Bachelor Year 1": "السنة الأولى بكالوريوس",
+  "L1": "س1",
+  "Bachelor Year 2": "السنة الثانية بكالوريوس",
+  "L2": "س2",
+  "Bachelor Year 3": "السنة الثالثة بكالوريوس",
+  "L3": "س3",
+  "Master Year 1": "السنة الأولى ماجستير",
+  "M1": "م1",
+  "Master Year 2": "السنة الثانية ماجستير",
+  "M2": "م2",
+  "PhD": "دكتوراه",
+  "Monday": "الإثنين",
+  "Mon": "إثنين",
+  "Tuesday": "الثلاثاء",
+  "Tue": "ثلاثاء",
+  "Wednesday": "الأربعاء",
+  "Wed": "أربعاء",
+  "Thursday": "الخميس",
+  "Thu": "خميس",
+  "Friday": "الجمعة",
+  "Fri": "جمعة",
+  "Saturday": "السبت",
+  "Sat": "سبت",
+  "Sunday": "الأحد",
+  "Sun": "أحد",
+  "Lecture": "محاضرة",
+  "Lab": "معمل",
+  "Tutorial": "درس تعليمي",
+  "Seminar": "ندوة",
+  "Workshop": "ورشة عمل",
+  "TP": "أعمال تطبيقية",
+  "TD": "أعمال موجهة",
+  "Project": "مشروع",
+  "Passed Professor ID:": "معرف الأستاذ الممرر:",
+  "Please enter a class name": "يرجى إدخال اسم الفصل",
+  "Please enter a class code": "يرجى إدخال رمز الفصل",
+  "Please select a department": "يرجى اختيار قسم",
+  "Please select a study level": "يرجى اختيار مستوى الدراسة",
+  "Please select a semester": "يرجى اختيار فصل دراسي",
+  "Classroom created successfully!": "تم إنشاء الفصل الدراسي بنجاح!",
+  "Failed to create classroom:": "فشل في إنشاء الفصل الدراسي:",
+  "Failed to create classroom. Please try again.": "فشل في إنشاء الفصل الدراسي. يرجى المحاولة مرة أخرى.",
+  "Please enter both start and end times": "يرجى إدخال وقت البداية والنهاية",
+  "Please use HH:MM format (e.g., 09:00)": "يرجى استخدام تنسيق HH:MM (على سبيل المثال، 09:00)",
+  "End time must be after start time": "يجب أن يكون وقت النهاية بعد وقت البداية",
+  "This time slot conflicts with an existing session": "هذا الوقت يتعارض مع جلسة موجودة",
+  "Create New Classroom": "إنشاء فصل دراسي جديد",
+  "Set up your class configuration": "قم بإعداد تكوين فصلك",
+  "Basic Information": "المعلومات الأساسية",
+  "Class Name": "اسم الفصل",
+  "e.g., IoT 3B": "على سبيل المثال، IoT 3B",
+  "Class Subject": "موضوع الفصل",
+  "e.g., Big Data 2026": "على سبيل المثال، البيانات الضخمة 2026",
+  "Description": "الوصف",
+  "Brief description of the class...": "وصف موجز للفصل...",
+  "Academic Configuration": "التكوين الأكاديمي",
+  "Department": "القسم",
+  "Select department": "اختر القسم",
+  "Study Level": "مستوى الدراسة",
+  "Select level": "اختر المستوى",
+  "Academic Year": "السنة الأكاديمية",
+  "Semester": "الفصل الدراسي",
+  "Select semester": "اختر الفصل الدراسي",
+  "Class Details": "تفاصيل الفصل",
+  "Maximum Students": "الحد الأقصى للطلاب",
+  "e.g., 30": "على سبيل المثال، 30",
+  "Default Room/Location": "القاعة/الموقع الافتراضي",
+  "e.g., Building A, Room 301": "على سبيل المثال، المبنى أ، القاعة 301",
+  "Can be overridden for individual sessions": "يمكن تجاوزه للجلسات الفردية",
+  "Weekly Schedule": "الجدول الأسبوعي",
+  "per week": "في الأسبوع",
+  "Tap on a day to add class sessions with specific times and rooms": "انقر على يوم لإضافة جلسات فصل بأوقات وقاعات محددة",
+  "Weekly Timetable": "الجدول الزمني الأسبوعي",
+  "Set up your weekly schedule now. You can always modify it later in the classroom settings.": "قم بإعداد جدولك الأسبوعي الآن. يمكنك دائماً تعديله لاحقاً في إعدادات الفصل الدراسي.",
+  "Creating...": "جارٍ الإنشاء...",
+  "Create Classroom": "إنشاء فصل دراسي",
+  "Select Department": "اختر القسم",
+  "Enter Department Name": "أدخل اسم القسم",
+  "Enter department name": "أدخل اسم القسم",
+  "Confirm": "تأكيد",
+  "Schedule": "الجدول",
+  "Scheduled Sessions": "الجلسات المجدولة",
+  "Add New Session": "إضافة جلسة جديدة",
+  "Session Type": "نوع الجلسة",
+  "Start Time": "وقت البداية",
+  "End Time": "وقت النهاية",
+  "Room/Location (Optional)": "القاعة/الموقع (اختياري)",
+  "e.g., Room 301 or leave blank for default": "على سبيل المثال، القاعة 301 أو اتركها فارغة للافتراضي",
+  "Quick Time Presets": "الأوقات المحددة مسبقاً",
+  "Add Session": "إضافة جلسة",
+  "Done": "تم",
+  "Select Study Level": "اختر مستوى الدراسة",
+  "Select Semester": "اختر الفصل الدراسي",
+  "Select Academic Year": "اختر السنة الأكاديمية",
+  "Failed to fetch classrooms:": "فشل في استرداد الفصول الدراسية:",
+  "Failed to parse activeQuizDoc.config:": "فشل في تحليل activeQuizDoc.config:",
+  "Failed to end quiz:": "فشل في إنهاء الاختبار:",
+  "Failed to fetch initial data:": "فشل في استرداد البيانات الأولية:",
+  "Failed to parse performanceStatus distribution": "فشل في تحليل توزيع حالة الأداء",
+  "Student Performance": "أداء الطلاب",
+  "Failed to parse last5 performance": "فشل في تحليل آخر 5 أداءات",
+  "Concentration": "التركيز",
+  "Hesitation": "التردد",
+  "Recent Performance (last": "الأداء الأخير (آخر",
+  "Progress:": "التقدم:",
+  "Performance Analytics": "تحليلات الأداء",
+  "Top Performer": "أفضل أداء",
+  "None": "لا شيء",
+  "Needs Support": "يحتاج إلى دعم",
+  "Performance Distribution": "توزيع الأداء",
+  "No performance data available": "لا توجد بيانات أداء متاحة",
+  "Common Issues": "المشاكل الشائعة",
+  "Students": "الطلاب",
+  "Completed": "مكتمل",
+  "Class Focus": "تركيز الفصل",
+  "Rush Rate": "معدل الاستعجال",
+  "Student Status Overview": "نظرة عامة على حالة الطلاب",
+  "Waiting for student data...": "في انتظار بيانات الطلاب...",
+  "Live Activity Feed": "موجز النشاط المباشر",
+  "Class-wide": "على مستوى الفصل",
+  "Monitoring student activity...": "مراقبة نشاط الطلاب...",
+  "Loading Stats...": "جارٍ تحميل الإحصائيات...",
+  "Live Quiz": "اختبار مباشر",
+  "In Progress •": "قيد التنفيذ •",
+  "End Quiz": "إنهاء الاختبار",
+  "Analytics": "التحليلات",
+  "End Quiz - Save Summary": "إنهاء الاختبار - حفظ الملخص",
+  "Select Classroom": "اختر الفصل الدراسي",
+  "Ending...": "جارٍ الإنهاء...",
+  "Error fetching classroom:": "خطأ في استرداد الفصل الدراسي:",
+  "Failed to load classroom": "فشل في تحميل الفصل الدراسي",
+  "Please provide a course description": "يرجى تقديم وصف للدورة",
+  "Failed to generate curriculum": "فشل في إنشاء المنهج",
+  "Curriculum plan generated successfully!": "تم إنشاء خطة المنهج بنجاح!",
+  "Curriculum generation error:": "خطأ في إنشاء المنهج:",
+  "Failed to generate curriculum plan. Please try again.": "فشل في إنشاء خطة المنهج. يرجى المحاولة مرة أخرى.",
+  "Failed to parse JSON field:": "فشل في تحليل حقل JSON:",
+  "Error loading plan:": "خطأ في تحميل الخطة:",
+  "Failed to load curriculum plan": "فشل في تحميل خطة المنهج",
+  "AI-Generated Curriculum Plan": "خطة المنهج المنشأة بالذكاء الاصطناعي",
+  "Plan Overview": "نظرة عامة على الخطة",
+  "Weeks": "أسابيع",
+  "Total Hours": "إجمالي الساعات",
+  "Effectiveness": "الفعالية",
+  "Time Distribution": "توزيع الوقت",
+  "Lectures:": "المحاضرات:",
+  "Practical:": "عملي:",
+  "Assessment:": "التقييم:",
+  "Learning Objectives": "أهداف التعلم",
+  "Curriculum Phases": "مراحل المنهج",
+  "Phase": "المرحلة",
+  "weeks (": "أسابيع (",
+  "Assessment Strategy": "استراتيجية التقييم",
+  "Total Quizzes": "إجمالي الاختبارات",
+  "Questions/Quiz": "أسئلة/اختبار",
+  "Quiz Schedule": "جدول الاختبارات",
+  "Week": "أسبوع",
+  "Grading Breakdown": "تفصيل الدرجات",
+  "Teaching Strategies": "استراتيجيات التدريس",
+  "AI Recommendations": "توصيات الذكاء الاصطناعي",
+  "Course Materials": "مواد الدورة",
+  "Core Materials": "المواد الأساسية",
+  "By": "بواسطة",
+  "Supplementary Materials": "المواد التكميلية",
+  "Export": "تصدير",
+  "Export functionality coming soon!": "وظيفة التصدير قريباً!",
+  "Export PDF": "تصدير PDF",
+  "Loading classroom...": "جارٍ تحميل الفصل الدراسي...",
+  "AI Curriculum Planning": "التخطيط للمنهج بالذكاء الاصطناعي",
+  "Configure AI Planning": "تكوين التخطيط بالذكاء الاصطناعي",
+  "Course Description": "وصف الدورة",
+  "Describe the course content, objectives, and main topics...": "صف محتوى الدورة والأهداف والمواضيع الرئيسية...",
+  "This helps the AI understand the scope and nature of your course": "هذا يساعد الذكاء الاصطناعي على فهم نطاق وطبيعة دورتك",
+  "Learning Objectives (Optional)": "أهداف التعلم (اختياري)",
+  "AI will generate objectives if you leave this blank": "سيقوم الذكاء الاصطناعي بإنشاء الأهداف إذا تركت هذا فارغاً",
+  "Main Topics to Cover (Optional)": "المواضيع الرئيسية التي يجب تغطيتها (اختياري)",
+  "List the main topics or modules you want to cover": "قم بسرد المواضيع أو الوحدات الرئيسية التي تريد تغطيتها",
+  "Focus Areas": "مجالات التركيز",
+  "Theory & Concepts": "النظرية والمفاهيم",
+  "Practical Work": "العمل العملي",
+  "Assessment & Evaluation": "التقييم والتقدير",
+  "Research & Projects": "البحث والمشاريع",
+  "Teaching Style": "أسلوب التدريس",
+  "Interactive & Engaging": "تفاعلي وجذاب",
+  "Traditional Lecture-based": "قائم على المحاضرات التقليدية",
+  "Flipped Classroom": "الفصل المقلوب",
+  "Project-based Learning": "التعلم القائم على المشاريع",
+  "Additional Context (Optional)": "السياق الإضافي (اختياري)",
+  "Any specific requirements, constraints, or preferences...": "أي متطلبات أو قيود أو تفضيلات محددة...",
+  "AI Generation Time": "وقت الإنشاء بالذكاء الاصطناعي",
+  "The AI will analyze your classroom data and generate a comprehensive curriculum plan. \n                      This usually takes 10-30 seconds.": "سيقوم الذكاء الاصطناعي بتحليل بيانات فصلك الدراسي وإنشاء خطة منهج شاملة. \n                      يستغرق هذا عادةً 10-30 ثانية.",
+  "Generating...": "جارٍ الإنشاء...",
+  "Generate Curriculum Plan": "إنشاء خطة المنهج",
+  "Professor CIN not loaded": "لم يتم تحميل رقم البطاقة الوطنية للأستاذ",
+  "Failed to parse students:": "فشل في تحليل الطلاب:",
+  "Unknown": "غير معروف",
+  "Failed to fetch quiz title:": "فشل في استرداد عنوان الاختبار:",
+  "Failed to load attendance data": "فشل في تحميل بيانات الحضور",
+  "Unknown Classroom": "فصل دراسي غير معروف",
+  "Present": "حاضر",
+  "Total": "المجموع",
+  "Rate": "المعدل",
+  "Tap to view attendees": "انقر لعرض الحاضرين",
+  "ID:": "المعرف:",
+  "Focus:": "التركيز:",
+  "Loading Attendance...": "جارٍ تحميل الحضور...",
+  "Attendance": "الحضور",
+  "Track student presence": "تتبع حضور الطلاب",
+  "Sessions": "الجلسات",
+  "Avg. Present": "متوسط الحاضرين",
+  "No attendance data available": "لا توجد بيانات حضور متاحة",
+  "Complete some quiz sessions to track attendance": "أكمل بعض جلسات الاختبار لتتبع الحضور",
+  "Duration:": "المدة:",
+  "Attendees (": "الحاضرون (",
+  "Planned": "مخطط",
+  "No Plan": "لا توجد خطة",
+  "sessions/week": "جلسات/أسبوع",
+  "View History": "عرض السجل",
+  "View Plan": "عرض الخطة",
+  "Planify": "التخطيط",
+  "Error checking classroom history:": "خطأ في التحقق من سجل الفصل الدراسي:",
+  "Professor ID is missing.": "معرف الأستاذ مفقود.",
+  "Error fetching classrooms:": "خطأ في استرداد الفصول الدراسية:",
+  "Failed to load classrooms": "فشل في تحميل الفصول الدراسية",
+  "Your teaching dashboard": "لوحة التحكم التعليمية الخاصة بك",
+  "No Classrooms Found": "لم يتم العثور على فصول دراسية",
+  "Tap the \"Create New Classroom\" button below to get started.": "انقر على زر \"إنشاء فصل دراسي جديد\" أدناه للبدء.",
+  "Failed to fetch professor data:": "فشل في استرداد بيانات الأستاذ:",
+  "Failed to fetch stats:": "فشل في استرداد الإحصائيات:",
+  "Logout": "تسجيل الخروج",
+  "Are you sure you want to logout?": "هل أنت متأكد من رغبتك في تسجيل الخروج؟",
+  "Logout error:": "خطأ في تسجيل الخروج:",
+  "Loading Profile...": "جارٍ تحميل الملف الشخصي...",
+  "Professor profile not found": "لم يتم العثور على ملف الأستاذ الشخصي",
+  "Unable to load your profile information": "تعذر تحميل معلومات ملفك الشخصي",
+  "Try Again": "حاول مرة أخرى",
+  "Quizzes Created": "الاختبارات المنشأة",
+  "Sessions Completed": "الجلسات المكتملة",
+  "Students Reached": "الطلاب الذين تم الوصول إليهم",
+  "Account Age": "عمر الحساب",
+  "Personal Information": "المعلومات الشخصية",
+  "Full Name": "الاسم الكامل",
+  "Email": "البريد الإلكتروني",
+  "CIN": "رقم البطاقة الوطنية",
+  "Phone": "الهاتف",
+  "Professional Details": "التفاصيل المهنية",
+  "Role": "الدور",
+  "Profile": "الملف الشخصي",
+  "Professor •": "أستاذ •",
+  "Language": "اللغة",
+  "English": "الإنجليزية",
+  "Français": "الفرنسية",
+  "Help & Support": "المساعدة والدعم",
+  "About": "حول",
+  "Unnamed Class": "فصل بدون اسم",
+  "Failed to load classroom data": "فشل في تحميل بيانات الفصل الدراسي",
+  "Failed to fetch quiz titles:": "فشل في استرداد عناوين الاختبارات:",
+  "Failed to parse students JSON:": "فشل في تحليل JSON للطلاب:",
+  "Quiz Sessions": "جلسات الاختبار",
+  "Avg Focus": "متوسط التركيز",
+  "View Details": "عرض التفاصيل",
+  "Excellent (>80%)": "ممتاز (>80%)",
+  "Good (60-79%)": "جيد (60-79%)",
+  "Average (40-59%)": "متوسط (40-59%)",
+  "Poor (0-39%)": "ضعيف (0-39%)",
+  "Focus Rate": "معدل التركيز",
+  "Performance Leaders": "قادة الأداء",
+  "Top:": "الأعلى:",
+  "Help:": "المساعدة:",
+  "Concentration Distribution": "توزيع التركيز",
+  "Loading History...": "جارٍ تحميل السجل...",
+  "Passt Quizzes": "الاختبارات السابقة",
+  "History of quizzes and global analytics": "سجل الاختبارات والتحليلات العامة",
+  "No classroom data available": "لا توجد بيانات للفصل الدراسي متاحة",
+  "Complete some quizzes to see classroom analytics": "أكمل بعض الاختبارات لرؤية تحليلات الفصل الدراسي",
+  "Plugin with Google Classroom": "الإضافة مع Google Classroom",
+  "Google Classroom Integration": "تكامل Google Classroom",
+  "Quiz": "اختبار",
+  "Google": "جوجل",
+  "Class": "الفصل",
+  "Auto Sync": "المزامنة التلقائية",
+  "Grades": "الدرجات",
+  "Connect with Google Classroom to automatically sync student rosters, \n        publish quiz results as assignments, and streamline your workflow.": "اتصل بـ Google Classroom لمزامنة قوائم الطلاب تلقائياً، \n        ونشر نتائج الاختبارات كمهام، وتبسيط سير عملك.",
+  "Import student lists automatically": "استيراد قوائم الطلاب تلقائياً",
+  "Export quiz results as grades": "تصدير نتائج الاختبارات كدرجات",
+  "Real-time assignment updates": "تحديثات المهام في الوقت الفعلي",
+  "This feature is currently under development": "هذه الميزة قيد التطوير حالياً",
+  "Stay tuned for updates!": "ابق على اطلاع على التحديثات!",
+  "Invalid or missing reset link parameters. Please try again.": "معاملات رابط إعادة التعيين غير صالحة أو مفقودة. يرجى المحاولة مرة أخرى.",
+  "Please fill in both password fields.": "يرجى ملء حقلي كلمة المرور.",
+  "Passwords do not match.": "كلمات المرور غير متطابقة.",
+  "Password successfully reset! You can now log in with your new password.": "تم إعادة تعيين كلمة المرور بنجاح! يمكنك الآن تسجيل الدخول بكلمة المرور الجديدة.",
+  "Password reset error:": "خطأ في إعادة تعيين كلمة المرور:",
+  "Failed to reset password. The link might be expired or invalid.": "فشل في إعادة تعيين كلمة المرور. قد يكون الرابط منتهي الصلاحية أو غير صالح.",
+  "Invalid credentials": "بيانات اعتماد غير صالحة",
+  "User not found": "المستخدم غير موجود",
+  "Invalid or expired reset link. Please request a new one.": "رابط إعادة التعيين غير صالح أو منتهي الصلاحية. يرجى طلب رابط جديد.",
+  "Verifying reset link...": "جارٍ التحقق من رابط إعادة التعيين...",
+  "Set New Password": "تعيين كلمة مرور جديدة",
+  "Enter your new password below.": "أدخل كلمة المرور الجديدة أدناه.",
+  "New Password": "كلمة المرور الجديدة",
+  "Confirm New Password": "تأكيد كلمة المرور الجديدة",
+  "Reset Password": "إعادة تعيين كلمة المرور",
+  "Failed to fetch student info:": "فشل في استرداد معلومات الطالب:",
+  "Student Dashboard": "لوحة تحكم الطالب",
+  "Preparing your learning space...": "جارٍ تحضير مساحة التعلم الخاصة بك...",
+  "Quizzes": "الاختبارات",
+  "Available Quizzes": "الاختبارات المتاحة",
+  "My Courses": "دوراتي",
+  "Enrolled Courses": "الدورات المسجلة",
+  "Search courses, quizzes, grades...": "البحث عن الدورات والاختبارات والدرجات...",
+  "Quiz completed": "اكتمل الاختبار",
+  "30 minutes ago": "منذ 30 دقيقة",
+  "Assignment submitted": "تم تقديم المهمة",
+  "2 hours ago": "منذ ساعتين",
+  "New course material available": "مواد دورة جديدة متاحة",
+  "1 day ago": "منذ يوم واحد",
+  "Upcoming Events": "الأحداث القادمة",
+  "Nov": "نوفمبر",
+  "Math Quiz": "اختبار الرياضيات",
+  "10:00 AM - 11:00 AM": "10:00 صباحاً - 11:00 صباحاً",
+  "Science Fair": "معرض العلوم",
+  "2:00 PM - 5:00 PM": "2:00 مساءً - 5:00 مساءً",
+  "Toggling theme to:": "تبديل السمة إلى:",
+  "Earn coins to get help!": "اكسب العملات للحصول على المساعدة!",
+  "Score:": "النتيجة:",
+  "x Streak!": "x سلسلة!",
+  "Hint": "تلميح",
+  "You're in the lead! Keep up the great work to stay at the top!": "أنت في الصدارة! استمر في العمل الرائع للبقاء في القمة!",
+  "You're doing great! Keep pushing to climb higher on the leaderboard!": "أنت تقوم بعمل رائع! استمر في الدفع للصعود أعلى في لوحة المتصدرين!",
+  "Give it your best shot to get on the leaderboard!": "ابذل قصارى جهدك للوصول إلى لوحة المتصدرين!",
+  "Live Leaderboard": "لوحة المتصدرين المباشرة",
+  "Anonymous": "مجهول",
+  "pts": "نقاط",
+  "x Streak! (x": "x سلسلة! (x",
+  "bonus)": "مكافأة)",
+  "You answered in": "أجبت في",
+  "seconds": "ثواني",
+  "View Summary": "عرض الملخص",
+  "Next Question": "السؤال التالي",
+  "Loading Quiz...": "جارٍ تحميل الاختبار...",
+  "You are out of the allowed quiz area!": "أنت خارج منطقة الاختبار المسموح بها!",
+  "Please return to the designated location to continue.": "يرجى العودة إلى الموقع المحدد للمتابعة.",
+  "Go Back and refresh!": "ارجع وحدّث!",
+  "Help 💡": "مساعدة 💡",
+  "Extra Time": "وقت إضافي",
+  "Leaderboard update failed:": "فشل تحديث لوحة المتصدرين:",
+  "Power-Up Activated!": "تم تفعيل التعزيز!",
+  "No explanation available.": "لا يوجد شرح متاح.",
+  "Missing Quiz, Session, or Student ID.": "معرف الاختبار أو الجلسة أو الطالب مفقود.",
+  "You have already completed all questions in this quiz.": "لقد أكملت بالفعل جميع الأسئلة في هذا الاختبار.",
+  "Data Fetching Error:": "خطأ في استرداد البيانات:",
+  "Location Required": "الموقع مطلوب",
+  "Location access is mandatory for this quiz. You will be disqualified if it's not enabled.": "الوصول إلى الموقع إلزامي لهذا الاختبار. سيتم استبعادك إذا لم يكن مفعلاً.",
+  "Out of Range": "خارج النطاق",
+  "You have moved too far from the quiz location. Please return to the designated area.": "لقد ابتعدت كثيراً عن موقع الاختبار. يرجى العودة إلى المنطقة المحددة.",
+  "Failed to parse ordering options:": "فشل في تحليل خيارات الترتيب:",
+  "Unknown question type encountered:": "تم مواجهة نوع سؤال غير معروف:",
+  "Excellent!": "ممتاز!",
+  "Spot On!": "صحيح تماماً!",
+  "Perfect!": "مثالي!",
+  "You Got It!": "لقد نجحت!",
+  "Nailed It!": "أتقنته!",
+  "You're crushing it!": "أنت تبدع!",
+  "That was brilliant!": "كان ذلك رائعاً!",
+  "Your knowledge is impressive!": "معرفتك مثيرة للإعجاب!",
+  "Keep up the great work!": "استمر في العمل الرائع!",
+  "Oops, Not Quite!": "عفواً، ليس تماماً!",
+  "Try Again Next Time!": "حاول مرة أخرى في المرة القادمة!",
+  "Keep Practicing!": "استمر في الممارسة!",
+  "Almost There!": "تقريباً هناك!",
+  "You'll get it next time!": "ستنجح في المرة القادمة!",
+  "Mistakes help us learn!": "الأخطاء تساعدنا على التعلم!",
+  "Don't give up!": "لا تستسلم!",
+  "Review and try again!": "راجع وحاول مرة أخرى!",
+  "Time Ran Out!": "انتهى الوقت!",
+  "Too Slow!": "بطيء جداً!",
+  "Next Time, Faster!": "في المرة القادمة، أسرع!",
+  "Out of Time!": "انتهى الوقت!",
+  "Speed up a bit next time!": "أسرع قليلاً في المرة القادمة!",
+  "Watch the timer!": "راقب المؤقت!",
+  "Quick thinking helps!": "التفكير السريع يساعد!",
+  "Time management is key!": "إدارة الوقت هي المفتاح!",
+  "Fast Thinker": "مفكر سريع",
+  "Achievement Unlocked!": "تم فتح الإنجاز!",
+  "You are a Fast Thinker! (+5 bonus coins)": "أنت مفكر سريع! (+5 عملات مكافأة)",
+  "3x Streak": "سلسلة 3x",
+  "3 questions correct in a row! Keep it up!": "3 أسئلة صحيحة على التوالي! استمر!",
+  "5x Streak Master": "سيد سلسلة 5x",
+  "5x Streak Master! Amazing!": "سيد سلسلة 5x! مذهل!",
+  "Lightning Fast!": "سريع كالبرق!",
+  "Submission Error:": "خطأ في الإرسال:",
+  "Submission Failed": "فشل الإرسال",
+  "Your answer could not be saved. Please check your connection.": "تعذر حفظ إجابتك. يرجى التحقق من اتصالك.",
+  "Failed to parse options for MCQ:": "فشل في تحليل خيارات الاختيار من متعدد:",
+  "True": "صحيح",
+  "False": "خطأ",
+  "Unsupported question type:": "نوع سؤال غير مدعوم:",
+  "Submit Answer": "إرسال الإجابة",
+  "Loading Quiz Results...": "جارٍ تحميل نتائج الاختبار...",
+  "Missing quiz, session, or student ID.": "معرف الاختبار أو الجلسة أو الطالب مفقود.",
+  "No quiz results found for this session.": "لم يتم العثور على نتائج اختبار لهذه الجلسة.",
+  "Failed to load quiz results.": "فشل في تحميل نتائج الاختبار.",
+  "Quiz Results Review Error:": "خطأ في مراجعة نتائج الاختبار:",
+  "Quiz Results": "نتائج الاختبار",
+  "Review Your Performance": "راجع أداءك",
+  "Your Performance": "أداؤك",
+  "Correct": "صحيح",
+  "Incorrect": "خطأ",
+  "Accuracy": "الدقة",
+  "Avg Time": "متوسط الوقت",
+  "Class Comparison": "مقارنة الفصل",
+  "Score Rank": "ترتيب النتيجة",
+  "Time Rank": "ترتيب الوقت",
+  "Class Avg Score": "متوسط نتيجة الفصل",
+  "Class Avg Time": "متوسط وقت الفصل",
+  "Question Review": "مراجعة الأسئلة",
+  "Question": "السؤال",
+  "Your Answer:": "إجابتك:",
+  "Fill-in-the-blank": "ملء الفراغات",
+  "Back to Quizzes": "العودة إلى الاختبارات",
+  "Loading Summary...": "جارٍ تحميل الملخص...",
+  "No submissions found for this quiz session.": "لم يتم العثور على إرسالات لهذه الجلسة الاختبارية.",
+  "Failed to load or save quiz summary.": "فشل في تحميل أو حفظ ملخص الاختبار.",
+  "Quiz Summary Error:": "خطأ في ملخص الاختبار:",
+  "Quiz Summary": "ملخص الاختبار",
+  "Algebra I": "الجبر الأول",
+  "Biology Basics": "أساسيات الأحياء",
+  "Modern History": "التاريخ الحديث",
+  "History": "التاريخ",
+  "See more": "عرض المزيد",
+  "Return to Dashboard": "العودة إلى لوحة التحكم",
+  "Error fetching student:": "خطأ في استرداد الطالب:",
+  "Permission required: Permission to access media library is required!": "الإذن مطلوب: يلزم الإذن للوصول إلى مكتبة الوسائط!",
+  "Image selection was cancelled.": "تم إلغاء اختيار الصورة.",
+  "Error picking avatar:": "خطأ في اختيار الصورة الرمزية:",
+  "Failed to pick an image.": "فشل في اختيار صورة.",
+  "Phone number must be exactly 8 digits.": "يجب أن يكون رقم الهاتف 8 أرقام بالضبط.",
+  "Date of birth is required.": "تاريخ الميلاد مطلوب.",
+  "Server error:": "خطأ في الخادم:",
+  "Update failed": "فشل التحديث",
+  "Profile updated successfully!": "تم تحديث الملف الشخصي بنجاح!",
+  "Error saving profile:": "خطأ في حفظ الملف الشخصي:",
+  "Student profile not found": "لم يتم العثور على ملف الطالب الشخصي",
+  "Quizzes Completed": "الاختبارات المكتملة",
+  "Average Score": "متوسط النتيجة",
+  "Study Hours": "ساعات الدراسة",
+  "Additional Details": "تفاصيل إضافية",
+  "Date of Birth": "تاريخ الميلاد",
+  "Address": "العنوان",
+  "Avatar": "الصورة الرمزية",
+  "Student • Learning Journey": "طالب • رحلة التعلم",
+  "Edit Profile": "تعديل الملف الشخصي",
+  "Change Avatar": "تغيير الصورة الرمزية",
+  "Pick Avatar": "اختر الصورة الرمزية",
+  "Save": "حفظ",
+  "Could not find student profile.": "تعذر العثور على ملف الطالب الشخصي.",
+  "Failed to fetch student ID:": "فشل في استرداد معرف الطالب:",
+  "Please log in to see your quizzes.": "يرجى تسجيل الدخول لرؤية اختباراتك.",
+  "Unknown Professor": "أستاذ غير معروف",
+  "Untitled Quiz": "اختبار بدون عنوان",
+  "Failed to load past quizzes:": "فشل في تحميل الاختبارات السابقة:",
+  "Failed to load past quizzes.": "فشل في تحميل الاختبارات السابقة.",
+  "Failed to fetch waiting quizzes:": "فشل في استرداد الاختبارات المنتظرة:",
+  "Failed to load waiting quizzes.": "فشل في تحميل الاختبارات المنتظرة.",
+  "Authentication Required": "المصادقة مطلوبة",
+  "Please log in to join this quiz.": "يرجى تسجيل الدخول للانضمام إلى هذا الاختبار.",
+  "Invalid QR Code": "رمز الاستجابة السريعة غير صالح",
+  "This QR code does not contain valid quiz information.": "لا يحتوي رمز الاستجابة السريعة هذا على معلومات اختبار صالحة.",
+  "Could not parse QR code data.": "تعذر تحليل بيانات رمز الاستجابة السريعة.",
+  "QR Code parsing error:": "خطأ في تحليل رمز الاستجابة السريعة:",
+  "Invalid Code": "رمز غير صالح",
+  "Please enter a valid web code.": "يرجى إدخال رمز ويب صالح.",
+  "No active quiz found with this code.": "لم يتم العثور على اختبار نشط بهذا الرمز.",
+  "Failed to join with web code:": "فشل في الانضمام برمز الويب:",
+  "Could not join the quiz. Please try again.": "تعذر الانضمام إلى الاختبار. يرجى المحاولة مرة أخرى.",
+  "Resume Quiz": "استئناف الاختبار",
+  "You have already started this quiz. press continue to proceed": "لقد بدأت هذا الاختبار بالفعل. اضغط على متابعة للمتابعة",
+  "Continue": "متابعة",
+  "Error continuing quiz": "خطأ في متابعة الاختبار",
+  "Failed to continue quiz. Try again.": "فشل في متابعة الاختبار. حاول مرة أخرى.",
+  "Camera Permission Denied": "تم رفض إذن الكاميرا",
+  "Please grant camera access to scan QR codes.": "يرجى منح الوصول إلى الكاميرا لمسح رموز الاستجابة السريعة.",
+  "Scan Quiz QR Code": "مسح رمز الاستجابة السريعة للاختبار",
+  "Cancel Scan": "إلغاء المسح",
+  "My Quizzes": "اختباراتي",
+  "Take quizzes and track your progress": "خوض الاختبارات وتتبع تقدمك",
+  "Waiting Quizzes": "الاختبارات المنتظرة",
+  "No quizzes to take right now.": "لا توجد اختبارات لخوضها الآن.",
+  "Results ready": "النتائج جاهزة",
+  "Summarize": "تلخيص",
+  "Continue Quiz": "متابعة الاختبار",
+  "Wait for Teacher": "انتظر المعلم",
+  "Past Quizzes": "الاختبارات السابقة",
+  "No quizzes taken yet.": "لم يتم خوض أي اختبارات بعد.",
+  "Prof:": "الأستاذ:",
+  "Date:": "التاريخ:",
+  "Show Results": "عرض النتائج",
+  "Incomplete Quiz": "اختبار غير مكتمل",
+  "Results are not yet summarized.": "لم يتم تلخيص النتائج بعد.",
+  "Incomplete": "غير مكتمل",
+  "Processing...": "جارٍ المعالجة...",
+  "Join New Quiz": "الانضمام إلى اختبار جديد",
+  "How do you want to join?": "كيف تريد الانضمام؟",
+  "Scan QR Code": "مسح رمز الاستجابة السريعة",
+  "Enter Short Code": "إدخال الرمز القصير",
+  "Enter Web Code": "إدخال رمز الويب",
+  "e.g. A1B2C3": "على سبيل المثال A1B2C3",
+  "Joining...": "جارٍ الانضمام...",
+  "Join": "انضم",
+  "Student profile not found.": "لم يتم العثور على ملف الطالب الشخصي.",
+  "Please log in to join the quiz.": "يرجى تسجيل الدخول للانضمام إلى الاختبار.",
+  "Quiz data is missing.": "بيانات الاختبار مفقودة.",
+  "Invalid QR code data format.": "تنسيق بيانات رمز الاستجابة السريعة غير صالح.",
+  "Incomplete quiz data from QR code.": "بيانات اختبار غير كاملة من رمز الاستجابة السريعة.",
+  "Failed to load quiz session details.": "فشل في تحميل تفاصيل جلسة الاختبار.",
+  "Location Permission Denied": "تم رفض إذن الموقع",
+  "Please allow location access.": "يرجى السماح بالوصول إلى الموقع.",
+  "Location Error": "خطأ في الموقع",
+  "Unable to retrieve your location.": "تعذر استرداد موقعك.",
+  "Error checking quiz start status:": "خطأ في التحقق من حالة بدء الاختبار:",
+  "Invalid quiz session data. Please scan the QR code again.": "بيانات جلسة اختبار غير صالحة. يرجى مسح رمز الاستجابة السريعة مرة أخرى.",
+  "Location access denied.": "تم رفض الوصول إلى الموقع.",
+  "Professor's or student's location not available.": "موقع الأستاذ أو الطالب غير متاح.",
+  "In range, quiz started.": "في النطاق، بدأ الاختبار.",
+  "In range, waiting for start.": "في النطاق، في انتظار البدء.",
+  "Error calculating distance.": "خطأ في حساب المسافة.",
+  "Quiz started.": "بدأ الاختبار.",
+  "Waiting for launch.": "في انتظار الإطلاق.",
+  "Access has been denied by the professor.": "تم رفض الوصول من قبل الأستاذ.",
+  "Failed to join quiz.": "فشل في الانضمام إلى الاختبار.",
+  "Joining Quiz...": "جارٍ الانضمام إلى الاختبار...",
+  "Please wait while we verify your access": "يرجى الانتظار بينما نتحقق من وصولك",
+  "Join Quiz": "انضم إلى الاختبار",
+  "Verifying your access...": "جارٍ التحقق من وصولك...",
+  "Access Denied": "تم رفض الوصول",
+  "Unable to get location.": "تعذر الحصول على الموقع.",
+  "Waiting for Launch": "في انتظار الإطلاق",
+  "You're successfully connected! The quiz will start automatically when your professor launches it.": "أنت متصل بنجاح! سيبدأ الاختبار تلقائياً عندما يطلقه أستاذك.",
+  "Waiting for teacher...": "في انتظار المعلم...",
+  "Leave and Return Later": "المغادرة والعودة لاحقاً",
+  "cin prof not loaded": "لم يتم تحميل رقم البطاقة الوطنية للأستاذ",
+  "Active session found for quiz:": "تم العثور على جلسة نشطة للاختبار:",
+  "Failed to load quizzes": "فشل في تحميل الاختبارات",
+  "All fields are required.": "جميع الحقول مطلوبة.",
+  "Professor CIN not loaded.": "لم يتم تحميل رقم البطاقة الوطنية للأستاذ.",
+  "Quiz updated successfully!": "تم تحديث الاختبار بنجاح!",
+  "Failed to create quiz.": "فشل في إنشاء الاختبار.",
+  "Quiz created successfully!": "تم إنشاء الاختبار بنجاح!",
+  "Failed to save quiz. Please try again.": "فشل في حفظ الاختبار. يرجى المحاولة مرة أخرى.",
+  "Quiz and all its questions deleted successfully!": "تم حذف الاختبار وجميع أسئلته بنجاح!",
+  "Deletion Error:": "خطأ في الحذف:",
+  "Failed to delete quiz and its questions": "فشل في حذف الاختبار وأسئلته",
+  "Failed to update quiz state:": "فشل في تحديث حالة الاختبار:",
+  "Failed to reset quiz state. Please try again.": "فشل في إعادة تعيين حالة الاختبار. يرجى المحاولة مرة أخرى.",
+  "Loading Quizzes...": "جارٍ تحميل الاختبارات...",
+  "Quiz Management": "إدارة الاختبارات",
+  "Create and manage your quizzes": "إنشاء وإدارة اختباراتك",
+  "No quiz available, create your first quiz": "لا يوجد اختبار متاح، أنشئ اختبارك الأول",
+  "State:": "الحالة:",
+  "Live": "مباشر",
+  "Re-use": "إعادة الاستخدام",
+  "Configurate": "التكوين",
+  "Re-configurate": "إعادة التكوين",
+  "Begin Quiz": "بدء الاختبار",
+  "Create New Quiz": "إنشاء اختبار جديد",
+  "Update Quiz": "تحديث الاختبار",
+  "Quiz Title": "عنوان الاختبار",
+  "Subject": "الموضوع",
+  "Icon": "الأيقونة",
+  "Select Icon": "اختر الأيقونة",
+  "Number of Questions": "عدد الأسئلة",
+  "Saving...": "جارٍ الحفظ...",
+  "Create": "إنشاء",
+  "Go to Classrooms!": "اذهب إلى الفصول الدراسية!",
+  "To view the quiz overview and detailed results, visit the": "لعرض نظرة عامة على الاختبار والنتائج التفصيلية، قم بزيارة",
+  "section on your dashboard.": "القسم في لوحة التحكم الخاصة بك.",
+  "Look for this section:": "ابحث عن هذا القسم:",
+  "Look for the classroom icon in your dashboard Caroussel": "ابحث عن أيقونة الفصل الدراسي في دوار لوحة التحكم الخاصة بك",
+  "Got it!": "فهمت!",
+  "Struggling": "يعاني",
+  "Distracted": "مشتت",
+  "Rushing": "متسرع",
+  "Excellent": "ممتاز",
+  "Improving": "يتحسن",
+  "Consistent": "ثابت",
+  "Average": "متوسط",
+  "N/A": "غير متاح",
+  "Part 1": "الجزء 1",
+  "characters": "أحرف",
+  "Left": "متبقي"
+}

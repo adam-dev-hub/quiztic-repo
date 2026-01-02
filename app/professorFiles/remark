@@ -1,0 +1,6 @@
+<LinearGradient
+  colors={['#6c5ce7', '#a29bfe', '#74b9ff']}
+  start={{ x: 0, y: 0 }}
+  end={{ x: 1, y: 1 }}
+  style={styles.topHalf}
+></LinearGradient>
