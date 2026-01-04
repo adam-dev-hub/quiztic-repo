@@ -6,9 +6,8 @@
   </a>
 </p>
 
-> Application mobile pour l'évaluation pédagogique en temps réel
+> Quiz'TIC est une application mobile innovante conçue pour transformer l'expérience d'évaluation pédagogique. Elle permet aux enseignants de créer et gérer des quiz interactifs en temps réel, tout en offrant aux étudiants une interface ludique et engageante pour participer et suivre leurs progrès.
 
-### 🏠 [Homepage](index.jsx)
 
 ## Install
 
@@ -16,11 +15,18 @@
 npm install
 ```
 
-## Usage
+## Test with Expo Go
 
 ```sh
-npm run start using Expo Go or npx expo run:android for android devices and npx expo run:ios for IOS devices
+npm run start 
 ```
+
+## Test on Android device using devtools (AndroidSDK required)
+
+```sh
+npx expo run:android
+```
+
 
 ## Author
 
@@ -28,7 +34,7 @@ npm run start using Expo Go or npx expo run:android for android devices and npx 
 
 * Website: https://farjeoui-portfolio.vercel.app
 * Github: [@adam-dev-hub](https://github.com/adam-dev-hub)
-* LinkedIn: [@Adam Al Farjeoui](https://linkedin.com/in/Adam Al Farjeoui)
+* LinkedIn: [@Adam Al Farjeoui](www.linkedin.com/in/adam-al-farjeoui)
 
 ## Show your support
 
