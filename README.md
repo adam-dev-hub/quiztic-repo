@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Quiz'TIC 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.2-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.2.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://farjeoui-portfolio.vercel.app/projects/QuizTIC-Mobile" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -34,7 +34,7 @@ npx expo run:android
 
 * Website: https://farjeoui-portfolio.vercel.app
 * Github: [@adam-dev-hub](https://github.com/adam-dev-hub)
-* LinkedIn: [@Adam Al Farjeoui](www.linkedin.com/in/adam-al-farjeoui)
+* LinkedIn: [@Adam Al Farjeoui](https://linkedin.com/in/adam-al-farjeoui)
 
 ## Show your support
 
