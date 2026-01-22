@@ -17,7 +17,7 @@ import {
 import { useRouter } from "expo-router";
 import { showToast } from "../lib/toasthelper"
 import Toast from 'react-native-toast-message';
-import { account } from "../lib/appwrite"; // Assuming 'account' is exported from appwrite.js
+import { account } from "../lib/appwrite"; 
 import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from "@expo/vector-icons";
 import SmartText from "../components/SmartText";
