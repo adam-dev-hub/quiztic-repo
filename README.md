@@ -2,7 +2,7 @@
 
 Quiz'TIC is a mobile learning platform built with **Expo + React Native** that helps teachers create, manage, and run interactive quizzes while students participate live and track their progress.
 
-![Quiz'TIC Splash Screen Logo](./quiztic_slogan.svg)
+![Quiz'TIC Logo](./quiztic_logo.svg)
 
 ## Features
 
